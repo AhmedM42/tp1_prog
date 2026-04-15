@@ -1,0 +1,110 @@
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Main {\r\n\r\n\r\n\r\n\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Main.java b/src/Main.java
+--- a/src/Main.java	(revision b46f46d73d03c0b778ec6b6789f1ce32d6300b7c)
++++ b/src/Main.java	(date 1776287421399)
+@@ -1,7 +1,2 @@
+ public class Main {
+-
+-
+-
+-
+-
+ }
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4bb6a2a1-87b2-4932-9429-bb2fb0190103\" name=\"Changes\" comment=\"fichier pour le projet + rename\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/GestionnaireObjetsJeu.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/GestionnaireObjetsJeu.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CopilotPersistence\">\r\n    <persistenceIdMap>\r\n      <entry key=\"_C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG\" value=\"3CPSzE4GalN0cFA0lo6VWHDR1SZ\" />\r\n    </persistenceIdMap>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"AhmedM42\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/AhmedM42/tp1_prog.git\",\r\n    \"accountId\": \"7aaf21d4-7bca-438c-9591-a8c12e457a21\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 4\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"3CPSzE4GalN0cFA0lo6VWHDR1SZ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\mmonc\\projet\\projet java prog1 objet\\TP1-PROG\" />\r\n      <recent name=\"C:\\Users\\mmonc\\projet\\projet java prog1 objet\\TP1-PROG\\LIB\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4bb6a2a1-87b2-4932-9429-bb2fb0190103\" name=\"Changes\" comment=\"\" />\r\n      <created>1776285971978</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1776285971978</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"fichier pour le projet\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1776286137531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1776286137531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"fichier pour le projet + rename\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1776286532332</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1776286532332</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"fichier pour le projet\" />\r\n    <MESSAGE value=\"fichier pour le projet + rename\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"fichier pour le projet + rename\" />\r\n  </component>\r\n  <component name=\"github-copilot-workspace\">\r\n    <instructionFileLocations>\r\n      <option value=\".github/instructions\" />\r\n    </instructionFileLocations>\r\n    <promptFileLocations>\r\n      <option value=\".github/prompts\" />\r\n    </promptFileLocations>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b46f46d73d03c0b778ec6b6789f1ce32d6300b7c)
++++ b/.idea/workspace.xml	(date 1776287421751)
+@@ -4,9 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="fichier pour le projet + rename">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/GestionnaireObjetsJeu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestionnaireObjetsJeu.java" afterDir="false" />
++    <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="Creation du Main">
++      <change afterPath="$PROJECT_DIR$/src/Intro.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -17,6 +17,13 @@
+     <persistenceIdMap>
+       <entry key="_C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG" value="3CPSzE4GalN0cFA0lo6VWHDR1SZ" />
+     </persistenceIdMap>
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -49,6 +56,7 @@
+     "git-widget-placeholder": "master",
+     "kotlin-language-version-configured": "true",
+     "last_opened_file_path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG",
++    "onboarding.tips.debug.path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG/src/Main.java",
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.0",
+     "project.structure.side.proportion": "0.0"
+@@ -85,13 +93,22 @@
+       <option name="project" value="LOCAL" />
+       <updated>1776286532332</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Creation du Main">
++      <option name="closed" value="true" />
++      <created>1776287062968</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1776287062968</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="fichier pour le projet" />
+     <MESSAGE value="fichier pour le projet + rename" />
+-    <option name="LAST_COMMIT_MESSAGE" value="fichier pour le projet + rename" />
++    <MESSAGE value="Creation du Main" />
++    <option name="LAST_COMMIT_MESSAGE" value="Creation du Main" />
+   </component>
+   <component name="github-copilot-workspace">
+     <instructionFileLocations>
+Index: src/Intro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Intro.java b/src/Intro.java
+new file mode 100644
+--- /dev/null	(date 1776287449749)
++++ b/src/Intro.java	(date 1776287449749)
+@@ -0,0 +1,11 @@
++import eko.*;
++
++public class Intro {
++
++    public static void intro(){
++        EKO.initialiser("Glitch Runner", 31, 21);
++        EKOConsole.couleurFond(EKOCouleur.NOIR);
++        EKOConsole.couleurTexte(EKOCouleur.VERT);
++        EKOConsole.rendre(); // rafraîchit l’écran
++    }
++}
+\ No newline at end of file
