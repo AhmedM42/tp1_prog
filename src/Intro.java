@@ -17,6 +17,5 @@ public class Intro {
         EKOConsole.afficher(16,10, "\u2501", EKOCouleur.VERT);
         EKOConsole.afficher(17,10, "\u2501", EKOCouleur.VERT);
         EKOConsole.afficher(18,10, "\uE1FB", EKOCouleur.JAUNE);
-
     }
 }
