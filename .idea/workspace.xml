@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="Creation du Main + Intro">
+      <change afterPath="$PROJECT_DIR$/src/ImagesUtiles/GlitchRunner_icone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +45,21 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="3CPSzE4GalN0cFA0lo6VWHDR1SZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Intro.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG",
+    "last_opened_file_path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG/Fichiers pour le projet",
     "onboarding.tips.debug.path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -63,8 +68,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mmonc\projet\projet java prog1 objet\TP1-PROG\Fichiers pour le projet" />
       <recent name="C:\Users\mmonc\projet\projet java prog1 objet\TP1-PROG" />
       <recent name="C:\Users\mmonc\projet\projet java prog1 objet\TP1-PROG\LIB" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mmonc\projet\projet java prog1 objet\TP1-PROG\src\ImagesUtiles" />
+      <recent name="C:\Users\mmonc\projet\projet java prog1 objet\TP1-PROG\Fichiers pour le projet" />
+      <recent name="C:\Users\mmonc\projet\projet java prog1 objet\TP1-PROG\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -116,8 +127,27 @@
       <option name="project" value="LOCAL" />
       <updated>1776287624418</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creation du Main + Intro">
+      <option name="closed" value="true" />
+      <created>1776288304127</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776288304127</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fichier pour le projet" />
