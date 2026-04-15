@@ -1,0 +1,12 @@
+public enum Etiquette {
+    HONEYNET,
+    HACKER,
+    JAUGE_ENERGIE,
+    JAUGE_TERMINAUX,
+    ENERGIE,
+    AGENT,
+    PORTE_DEROBEE,
+    CODE_CORROMPU,
+    CORRUPTEUR,
+    TERMINAL
+}
