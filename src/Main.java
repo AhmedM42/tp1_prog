@@ -1,7 +1,2 @@
 public class Main {
-
-
-
-
-
 }

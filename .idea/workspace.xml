@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="fichier pour le projet + rename">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GestionnaireObjetsJeu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestionnaireObjetsJeu.java" afterDir="false" />
+    <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="Creation du Main">
+      <change afterPath="$PROJECT_DIR$/src/Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,13 @@
     <persistenceIdMap>
       <entry key="_C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG" value="3CPSzE4GalN0cFA0lo6VWHDR1SZ" />
     </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +56,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG",
+    "onboarding.tips.debug.path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -85,13 +93,22 @@
       <option name="project" value="LOCAL" />
       <updated>1776286532332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creation du Main">
+      <option name="closed" value="true" />
+      <created>1776287062968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776287062968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fichier pour le projet" />
     <MESSAGE value="fichier pour le projet + rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="fichier pour le projet + rename" />
+    <MESSAGE value="Creation du Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation du Main" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
