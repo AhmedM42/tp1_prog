@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LIB/eko.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1-PROG.iml" afterDir="false" />
-    </list>
+    <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="fichier pour le projet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AhmedM42"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AhmedM42/tp1_prog.git",
+    "accountId": "7aaf21d4-7bca-438c-9591-a8c12e457a21"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -39,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG/LIB/eko.jar",
+    "last_opened_file_path": "C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -47,6 +50,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mmonc\projet\projet java prog1 objet\TP1-PROG" />
       <recent name="C:\Users\mmonc\projet\projet java prog1 objet\TP1-PROG\LIB" />
     </key>
   </component>
@@ -59,7 +63,20 @@
       <option name="presentableId" value="Default" />
       <updated>1776285971978</updated>
     </task>
+    <task id="LOCAL-00001" summary="fichier pour le projet">
+      <option name="closed" value="true" />
+      <created>1776286137531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776286137531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fichier pour le projet" />
+    <option name="LAST_COMMIT_MESSAGE" value="fichier pour le projet" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
