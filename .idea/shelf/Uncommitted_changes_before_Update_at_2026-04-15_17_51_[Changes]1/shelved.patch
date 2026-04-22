@@ -1,0 +1,20 @@
+Index: src/Intro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import eko.*;\r\n\r\npublic class Intro {\r\n\r\n    public static void main(String[] args) {\r\n        intro();\r\n    }\r\n\r\n    public static void intro(){\r\n        EKO.initialiser(\"Glitch Runner\", 31, 21);\r\n        EKOConsole.couleurFond(EKOCouleur.NOIR);\r\n        EKOConsole.couleurTexte(EKOCouleur.VERT);\r\n        EKOConsole.rendre(); // rafraîchit l’écran\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Intro.java b/src/Intro.java
+--- a/src/Intro.java	
++++ b/src/Intro.java	
+@@ -11,5 +11,8 @@
+         EKOConsole.couleurFond(EKOCouleur.NOIR);
+         EKOConsole.couleurTexte(EKOCouleur.VERT);
+         EKOConsole.rendre(); // rafraîchit l’écran
++
++
++
+     }
+ }
+\ No newline at end of file

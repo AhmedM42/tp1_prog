@@ -1,0 +1,115 @@
+Index: src/Intro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import eko.*;\r\n\r\npublic class Intro {\r\n\r\n    public static void main(String[] args) {\r\n        intro();\r\n    }\r\n\r\n    public static void intro(){\r\n        EKO.initialiser(\"Glitch Runner : Trap Protocol\", 31, 21);\r\n        EKOConsole.icone( \"src/ImagesUtiles/GlitchRunner_icone.png\");\r\n        EKOConsole.couleurFond(EKOCouleur.GRIS_FONCE);\r\n        EKOConsole.afficher(9,5, \"Glitch Runner\");\r\n        EKOConsole.afficher(9,6, \"Trap protocol\", EKOCouleur.VERT);\r\n        EKOConsole.afficher(15,10, \"\\u2501\", EKOCouleur.VERT);\r\n        EKOConsole.afficher(15,10, \"\\uE210\");\r\n        EKOConsole.afficher(16,10, \"\\u2501\", EKOCouleur.VERT);\r\n        EKOConsole.afficher(17,10, \"\\u2501\", EKOCouleur.VERT);\r\n        EKOConsole.afficher(18,10, \"\\uE1FB\", EKOCouleur.JAUNE);\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Intro.java b/src/Intro.java
+--- a/src/Intro.java	(revision a78d702719e19cd023275a6db19c708773e7e574)
++++ b/src/Intro.java	(date 1776708274745)
+@@ -1,7 +1,7 @@
+ import eko.*;
+ 
+ public class Intro {
+-
++public static final EKOSon
+     public static void main(String[] args) {
+         intro();
+     }
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4bb6a2a1-87b2-4932-9429-bb2fb0190103\" name=\"Changes\" comment=\"Creation du Main + Intro\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/ImagesUtiles/GlitchRunner_icone.png\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Intro.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Intro.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CopilotPersistence\">\r\n    <persistenceIdMap>\r\n      <entry key=\"_C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG\" value=\"3CPSzE4GalN0cFA0lo6VWHDR1SZ\" />\r\n    </persistenceIdMap>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;AhmedM42&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/AhmedM42/tp1_prog.git&quot;,\r\n    &quot;accountId&quot;: &quot;7aaf21d4-7bca-438c-9591-a8c12e457a21&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3CPSzE4GalN0cFA0lo6VWHDR1SZ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Intro.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG/Fichiers pour le projet\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/mmonc/projet/projet java prog1 objet/TP1-PROG/src/Main.java\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\mmonc\\projet\\projet java prog1 objet\\TP1-PROG\\Fichiers pour le projet\" />\r\n      <recent name=\"C:\\Users\\mmonc\\projet\\projet java prog1 objet\\TP1-PROG\" />\r\n      <recent name=\"C:\\Users\\mmonc\\projet\\projet java prog1 objet\\TP1-PROG\\LIB\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\mmonc\\projet\\projet java prog1 objet\\TP1-PROG\\src\\ImagesUtiles\" />\r\n      <recent name=\"C:\\Users\\mmonc\\projet\\projet java prog1 objet\\TP1-PROG\\Fichiers pour le projet\" />\r\n      <recent name=\"C:\\Users\\mmonc\\projet\\projet java prog1 objet\\TP1-PROG\\src\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4bb6a2a1-87b2-4932-9429-bb2fb0190103\" name=\"Changes\" comment=\"\" />\r\n      <created>1776285971978</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1776285971978</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"fichier pour le projet\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1776286137531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1776286137531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"fichier pour le projet + rename\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1776286532332</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1776286532332</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Creation du Main\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1776287062968</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1776287062968</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Creation du Main + Intro\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1776287612185</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1776287612185</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Creation du Main + Intro\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1776287624418</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1776287624418</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Creation du Main + Intro\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1776288304127</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1776288304127</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"fichier pour le projet\" />\r\n    <MESSAGE value=\"fichier pour le projet + rename\" />\r\n    <MESSAGE value=\"Creation du Main\" />\r\n    <MESSAGE value=\"Creation du Main + Intro\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Creation du Main + Intro\" />\r\n  </component>\r\n  <component name=\"github-copilot-workspace\">\r\n    <instructionFileLocations>\r\n      <option value=\".github/instructions\" />\r\n    </instructionFileLocations>\r\n    <promptFileLocations>\r\n      <option value=\".github/prompts\" />\r\n    </promptFileLocations>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a78d702719e19cd023275a6db19c708773e7e574)
++++ b/.idea/workspace.xml	(date 1776707734137)
+@@ -5,9 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="Creation du Main + Intro">
+-      <change afterPath="$PROJECT_DIR$/src/ImagesUtiles/GlitchRunner_icone.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/transition.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2026-04-15_17_12__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2026-04-15_17_12__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -35,12 +35,12 @@
+     &quot;assignee&quot;: &quot;AhmedM42&quot;
+   }
+ }</component>
+-  <component name="GithubPullRequestsUISettings">{
+-  &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/AhmedM42/tp1_prog.git&quot;,
+-    &quot;accountId&quot;: &quot;7aaf21d4-7bca-438c-9591-a8c12e457a21&quot;
+-  }
+-}</component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/AhmedM42/tp1_prog.git",
++    "accountId": "b8571c55-aa54-43b4-bf70-533538140dd1"
++  }
++}]]></component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 4
+ }</component>
+@@ -55,6 +55,7 @@
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "Application.Intro.executor": "Run",
++    "Application.transition.executor": "Run",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "git-widget-placeholder": "master",
+@@ -135,7 +136,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1776288304127</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="Creation du Main + Intro">
++      <option name="closed" value="true" />
++      <created>1776289946623</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1776289946623</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+Index: src/transition.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/transition.java b/src/transition.java
+new file mode 100644
+--- /dev/null	(date 1776708244659)
++++ b/src/transition.java	(date 1776708244659)
+@@ -0,0 +1,20 @@
++import eko.EKO;
++import eko.EKOConsole;
++import eko.EKOCouleur;
++
++public class transition  {
++
++    public static void main(String[] args) {
++        transition();
++    }
++
++    public static void transition(){
++        EKO.initialiser("Glitch Runner : Trap Protocol", 31, 21);
++        EKOConsole.icone( "src/ImagesUtiles/GlitchRunner_icone.png");
++        EKOConsole.couleurFond(EKOCouleur.GRIS_FONCE);
++        EKOConsole.afficher(6,9, "Intrusion détectée !", EKOCouleur.ROUGE);
++
++    }
++}
++
++
