@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="Creation du Main + Intro">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hacker.java" afterDir="false" />
+    <list default="true" id="4bb6a2a1-87b2-4932-9429-bb2fb0190103" name="Changes" comment="AJOUT DE HACKER">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hacker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776289858346</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="AJOUT DE HACKER">
+      <option name="closed" value="true" />
+      <created>1776708248348</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776708248348</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +172,8 @@
     <MESSAGE value="Creation du Main" />
     <MESSAGE value="Creation du Main + Intro" />
     <MESSAGE value="Fonction de base de Intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fonction de base de Intro" />
+    <MESSAGE value="AJOUT DE HACKER" />
+    <option name="LAST_COMMIT_MESSAGE" value="AJOUT DE HACKER" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
